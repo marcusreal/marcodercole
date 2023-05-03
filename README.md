@@ -14,6 +14,22 @@ Here are my personal contacts. Just click on the badges. Feel free to contact me
 
 </center>
 
+## Who am I?
+
+<div align="center">
+  <h3>Esperienze Lavorative</h3>
+  <img src="https://img.icons8.com/color/48/000000/business-report.png"/>
+  <h4>Business Intelligence</h4>
+  <p>Descrizione del ruolo e dell'esperienza lavorativa</p>
+  <img src="https://img.icons8.com/color/48/000000/data-analytics.png"/>
+  <h4>Data Analyst</h4>
+  <p>Descrizione del ruolo e dell'esperienza lavorativa</p>
+  <img src="https://img.icons8.com/color/48/000000/data-scientist.png"/>
+  <h4>Data Scientist</h4>
+  <p>Descrizione del ruolo e dell'esperienza lavorativa</p>
+</div>
+
+
 ## Language and tools
 
 
