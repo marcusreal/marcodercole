@@ -1,4 +1,5 @@
 # marcodercole
 About me
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![Example Badge](https://img.shields.io/badge/Example-#008000?style=for-the-badge&logo=python&logoColor=white)
+
