@@ -16,12 +16,12 @@ Here are my personal contacts. Just click on the badges. Feel free to contact me
 
 ## Who am I?
 
-##### 🧑 Il mio nome è Marco D'Ercole
-##### 📅 Sono nato l'11 gennaio 1999
-##### 🌍 Abito a Roma
-##### 👨‍🎓 Ho una Laurea triennale in Scienze Statistiche
-##### 👨‍🎓 sono studente magistrale in Data Science
-##### 💭 Ho molti interessi, sono curioso e amo viaggiare</div>  
+##### 🧑 My name is Marco D'Ercole
+##### 📅 I was Born the 11th of january 1999
+##### 🌍 Living in Rome.
+##### 👨‍🎓 Bachelor degree in Statistics
+##### 👨‍🎓 I am doing a master in Data Science
+##### 💭 I have many interests, am curious and love to travel</div>  
   
 <br/>  
 
