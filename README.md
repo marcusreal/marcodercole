@@ -47,3 +47,5 @@ Here are my personal contacts. Just click on the badges. Feel free to contact me
   <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 </span>
 
+## Main Projects
+
