@@ -4,7 +4,7 @@
 
 <center>
 
-## About Me
+## My contacts
 
 Here are my personal contacts. Feel free to contact me.
 
