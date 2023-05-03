@@ -51,4 +51,4 @@ Here are my personal contacts. Just click on the badges. Feel free to contact me
 
 I am a student in Data Science and the project that i did at the moment are all linked to my university path:
 
-[![GitHub Repo_5](https://img.shields.io/badge/GitHub-Repo-5-green?style=for-the-badge&logo=github)](https://github.com/marcusreal/ADM_HW5)
+[![GitHub Repo_5](https://img.shields.io/badge/GitHub-Repo 5-green?style=for-the-badge&logo=github)](https://github.com/marcusreal/ADM_HW5)
