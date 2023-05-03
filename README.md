@@ -1,6 +1,6 @@
 # marcodercole
 
-![Alt text](./myworld.jpg.jpg "Data World")
+![Alt text](./myworld.jpeg "Data World")
 
 
 About me:
