@@ -1,6 +1,7 @@
 # marcodercole
 
-![Example image](myworld.png "Data world")
+![Alt text](/path/to/myworld.jpg "Data World")
+
 
 About me:
 
