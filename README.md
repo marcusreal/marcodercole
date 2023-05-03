@@ -1,5 +1,6 @@
 # marcodercole
 About me
 
-![Example Badge](https://img.shields.io/badge/Example-#008000?style=for-the-badge&logo=python&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](inserisci qui il tuo collegamento al profilo LinkedIn)
+
 
