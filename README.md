@@ -19,9 +19,9 @@ Here are my personal contacts. Just click on the badges. Feel free to contact me
 
 ## What can I do?
 
-### <div align="center">🎯 Business Intelligence
-<div align="center">📊 Data Analyst
-<div align="center">💻Data Scientist</div>  
+####🎯 Business Intelligence
+###📊 Data Analyst
+###💻Data Scientist</div>  
  
 
 ## Language and tools
