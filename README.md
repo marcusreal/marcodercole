@@ -52,7 +52,7 @@ Here are my personal contacts. Just click on the badges. Feel free to contact me
 
 I am a student in Data Science and the project that i did at the moment are all linked to my university path:
 
-[![GitHub Repo_1](https://img.shields.io/badge/GitHub-1-blue?style=for-the-badge&logo=github)](https://github.com/masabbah-97/ADM-HW2)
+[![GitHub Repo_1](https://img.shields.io/badge/GitHub-1-blue?style=for-the-badge&logo=github)](https://github.com/marcusreal/RecipeForHappiness)
 [![GitHub Repo_2](https://img.shields.io/badge/GitHub-2-red?style=for-the-badge&logo=github)](https://github.com/masabbah-97/ADM-HW2)
 [![GitHub Repo_3](https://img.shields.io/badge/GitHub-3-yellow?style=for-the-badge&logo=github)](https://github.com/MRampo/ADM-HW3)
 [![GitHub Repo_4](https://img.shields.io/badge/GitHub-4-green?style=for-the-badge&logo=github)](https://github.com/maryyyyna/ADM-HW4-Group14)
