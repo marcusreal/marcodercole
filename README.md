@@ -34,7 +34,7 @@ Here are my personal contacts. Just click on the badges. Feel free to contact me
  
 ## My curriculum vitae
 
-[![Curriculum Vitae](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://drive.google.com/file/d/1IcAUKpJC2PwmXZcyHJl-Kh_mWZ0RYZiK/view?usp=sharing)
+[![Curriculum Vitae](https://img.shields.io/badge/Curriculum%20Vitae-Download%20PDF-brightgreen?style=for-the-badge)](https://drive.google.com/file/d/1IcAUKpJC2PwmXZcyHJl-Kh_mWZ0RYZiK/view?usp=sharing)
 
 ## Language and tools
 
