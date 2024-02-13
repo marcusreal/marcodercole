@@ -23,7 +23,7 @@ Here are my personal contacts. Just click on the badges. Feel free to contact me
 ##### 👨‍🎓 I am doing a master in Data Science, University La Sapienza.
 ##### 💭 I have many interests, I am curious and I love to travel.</div>  
   
-<br/>  
+</center> 
 
 ## What can I do?
 
@@ -31,10 +31,14 @@ Here are my personal contacts. Just click on the badges. Feel free to contact me
 ##### 📊 Data Analyst
 ##### 💻Data Scientist
 </div>  
+
+ </center>
  
 ## My curriculum vitae
 
 [![Curriculum Vitae](https://img.shields.io/badge/Curriculum%20Vitae-Download%20PDF-brightgreen?style=for-the-badge)](https://drive.google.com/file/d/1IcAUKpJC2PwmXZcyHJl-Kh_mWZ0RYZiK/view?usp=sharing)
+
+</center>
 
 ## Language and tools
 
@@ -51,6 +55,7 @@ Here are my personal contacts. Just click on the badges. Feel free to contact me
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </span>
 
+</center>
 ## Main Projects
 
 I am a student in Data Science and the project that i did at the moment are all linked to my university path:
