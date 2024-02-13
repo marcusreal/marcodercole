@@ -34,7 +34,7 @@ Here are my personal contacts. Just click on the badges. Feel free to contact me
  
 ## My curriculum vitae
 
-[![Curriculum Vitae](https://drive.google.com/file/d/1IcAUKpJC2PwmXZcyHJl-Kh_mWZ0RYZiK/view?usp=sharing)
+[![Instagram](https://drive.google.com/file/d/1IcAUKpJC2PwmXZcyHJl-Kh_mWZ0RYZiK/view?usp=sharing)
 
 ## Language and tools
 
