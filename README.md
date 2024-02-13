@@ -56,6 +56,7 @@ Here are my personal contacts. Just click on the badges. Feel free to contact me
 </span>
 
 </center>
+
 ## Main Projects
 
 I am a student in Data Science and the project that i did at the moment are all linked to my university path:
