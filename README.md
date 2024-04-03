@@ -66,3 +66,4 @@ I am a student in Data Science and the project that i did at the moment are all 
 [![GitHub Repo_3](https://img.shields.io/badge/GitHub-3-yellow?style=for-the-badge&logo=github)](https://github.com/MRampo/ADM-HW3)
 [![GitHub Repo_4](https://img.shields.io/badge/GitHub-4-green?style=for-the-badge&logo=github)](https://github.com/maryyyyna/ADM-HW4-Group14)
 [![GitHub Repo_5](https://img.shields.io/badge/GitHub-5-purple?style=for-the-badge&logo=github)](https://github.com/marcusreal/ADM_HW5)
+[![GitHub Repo_6](https://img.shields.io/badge/GitHub-5-pink?style=for-the-badge&logo=github)](https://github.com/marcusreal/ADM_HW5)
