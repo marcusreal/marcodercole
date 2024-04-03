@@ -62,20 +62,20 @@ Here are my personal contacts. Just click on the badges. Feel free to contact me
 I am a student in Data Science and this are some of the projects that i did during my university path:
 
 [![GitHub Repo_1](https://img.shields.io/badge/GitHub-1-blue?style=for-the-badge&logo=github)](https://github.com/marcusreal/RecipeForHappiness)
-[![GitHub Repo_2](https://img.shields.io/badge/GitHub-2-red?style=for-the-badge&logo=github)](https://github.com/masabbah-97/ADM-HW2)
-[![GitHub Repo_3](https://img.shields.io/badge/GitHub-3-yellow?style=for-the-badge&logo=github)](https://github.com/MRampo/ADM-HW3)
-[![GitHub Repo_4](https://img.shields.io/badge/GitHub-4-green?style=for-the-badge&logo=github)](https://github.com/maryyyyna/ADM-HW4-Group14)
-[![GitHub Repo_5](https://img.shields.io/badge/GitHub-5-purple?style=for-the-badge&logo=github)](https://github.com/marcusreal/ADM_HW5)
-[![GitHub Repo_6](https://img.shields.io/badge/GitHub-6-pink?style=for-the-badge&logo=github)](https://github.com/marcusreal/Skin-Cancer-Detection)
+[![GitHub Repo_2](https://img.shields.io/badge/GitHub-2-yellow?style=for-the-badge&logo=github)](https://github.com/MRampo/ADM-HW3)
+[![GitHub Repo_3](https://img.shields.io/badge/GitHub-3-green?style=for-the-badge&logo=github)](https://github.com/maryyyyna/ADM-HW4-Group14)
+[![GitHub Repo_4](https://img.shields.io/badge/GitHub-4-purple?style=for-the-badge&logo=github)](https://github.com/marcusreal/ADM_HW5)
+[![GitHub Repo_5](https://img.shields.io/badge/GitHub-5-pink?style=for-the-badge&logo=github)](https://github.com/marcusreal/Skin-Cancer-Detection)
+[![GitHub Repo_6](https://img.shields.io/badge/GitHub-6-red?style=for-the-badge&logo=github)](https://github.com/masabbah-97/ADM-HW2)
 
 Project 1: The recipe for happiness - A bayesian linear regression analysis
 
-Project 2: 
+Project 2: Atlas Obscura" - A web scraping work - Creation of a search engine, definition of a scoring system, visualise in a map the most relevant places
 
-Project 3: Atlas Obscura" - A web scraping work - Creation of a search engine, definition of a scoring system, visualise in a map the most relevant places
+Project 3: Bank Customer Segmentation - Locality-Sensitive Hashing (LSH) algorithm to find the most similar users and clusters
 
-Project 4:
+Project 4: The hub of the Marvel world - Feature extraction of the Marvel World graph 
 
-Project 5: The hub of the Marvel world - Feature extraction of the Marvel World graph 
+Project 5: Skin Cancer detection - Image classification models for skin cancer detection
 
-Project 6: Skin Cancer detection - Image classification models for skin cancer detection
+Project 6: In the maze of Instagram - Statistical analysis of Instagram profiles 
