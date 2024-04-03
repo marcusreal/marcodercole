@@ -67,3 +67,10 @@ I am a student in Data Science and the project that i did at the moment are all 
 [![GitHub Repo_4](https://img.shields.io/badge/GitHub-4-green?style=for-the-badge&logo=github)](https://github.com/maryyyyna/ADM-HW4-Group14)
 [![GitHub Repo_5](https://img.shields.io/badge/GitHub-5-purple?style=for-the-badge&logo=github)](https://github.com/marcusreal/ADM_HW5)
 [![GitHub Repo_6](https://img.shields.io/badge/GitHub-6-pink?style=for-the-badge&logo=github)](https://github.com/marcusreal/Skin-Cancer-Detection)
+
+Project 1: The recipe for happiness - A bayesian linear regression analysis
+Project 2: 
+Project 3: Atlas Obscura" - A web scraping work - Creation of a search engine, definition of a scoring system, visualise in a map the most relevant places
+Project 4:
+Project 5: The hub of the Marvel world - Feature extraction of the Marvel World graph 
+Project 6: Skin Cancer detection - Image classification models for skin cancer detection
