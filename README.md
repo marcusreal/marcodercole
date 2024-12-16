@@ -37,7 +37,7 @@ Here are my personal contacts. Just click on the badges. Feel free to contact me
 
 ## My curriculum vitae
 
-[![Curriculum Vitae](https://img.shields.io/badge/Curriculum%20Vitae-Download%20PDF-brightgreen?style=for-the-badge)](https://drive.google.com/file/d/17U0dctqLvl9JAU2VKWoIYfrCOzywtMfw/view?usp=sharing)
+[![Curriculum Vitae](https://img.shields.io/badge/Curriculum%20Vitae-Download%20PDF-brightgreen?style=for-the-badge)](https://drive.google.com/file/d/1RWHECqqJx7UIx8hFH_OF3-rHfN8LcPWa/view?usp=sharing)
 </center>
 
 
