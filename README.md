@@ -71,6 +71,8 @@ I am a student in Data Science and this are some of the projects that i did duri
 [![GitHub Repo_6](https://img.shields.io/badge/GitHub-6-red?style=for-the-badge&logo=github)](https://github.com/masabbah-97/ADM-HW2)
 [![GitHub Repo_7](https://img.shields.io/badge/GitHub-7-brown?style=for-the-badge&logo=github)](https://github.com/marcusreal/Flussi-turistici-in-Italia-nel-2019/tree/main)
 
+Project Master Thesis: Mapping news diet and polarization dynamics during electoral campaigns
+
 Project 1: The recipe for happiness - A bayesian linear regression analysis
 
 Project 2: Atlas Obscura" - A web scraping work - Creation of a search engine, definition of a scoring system, visualise in a map the most relevant places
