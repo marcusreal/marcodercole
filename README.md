@@ -62,7 +62,7 @@ Here are my personal contacts. Just click on the badges. Feel free to contact me
 
 I am a student in Data Science and this are some of the projects that i did during my university path:
 
-[![GitHub Repo_MasterThesis](https://img.shields.io/badge/GitHub-1-darkgreen?style=for-the-badge&logo=github)](https://github.com/marcusreal/MasterThesis.git)
+[![GitHub Repo_MasterThesis](https://img.shields.io/badge/GitHub-MasterThesis-darkgreen?style=for-the-badge&logo=github)](https://github.com/marcusreal/MasterThesis.git)
 [![GitHub Repo_1](https://img.shields.io/badge/GitHub-1-blue?style=for-the-badge&logo=github)](https://github.com/marcusreal/RecipeForHappiness)
 [![GitHub Repo_2](https://img.shields.io/badge/GitHub-2-yellow?style=for-the-badge&logo=github)](https://github.com/MRampo/ADM-HW3)
 [![GitHub Repo_3](https://img.shields.io/badge/GitHub-3-green?style=for-the-badge&logo=github)](https://github.com/maryyyyna/ADM-HW4-Group14)
