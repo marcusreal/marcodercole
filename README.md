@@ -20,7 +20,7 @@ Here are my personal contacts. Just click on the badges. Feel free to contact me
 ##### 📅 I was Born the 11th of january 1999.
 ##### 🌍 Living in Rome.
 ##### 👨‍🎓 Bachelor degree in Statistics, University La Sapienza.
-##### 👨‍🎓 I am doing a master in Data Science, University La Sapienza.
+##### 👨‍🎓 Master degree in Data Science, University La Sapienza.
 ##### 💭 I have many interests, I am curious and I love to travel.</div>  
   
 </center> 
@@ -29,7 +29,7 @@ Here are my personal contacts. Just click on the badges. Feel free to contact me
 
 ##### 🎯 Business Intelligence
 ##### 📊 Data Analyst
-##### 💻Data Scientist
+##### 💻 Data Scientist
 </div>  
 
  </center>
